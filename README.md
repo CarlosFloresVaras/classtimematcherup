@@ -33,7 +33,7 @@ Este proyecto está dirigido principalmente a estudiantes que necesitan visualiz
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/...
+   git clone https://github.com/CarlosFloresVaras/classtimematcher
    ```
 2. Instala las dependencias con npm:
    ```
